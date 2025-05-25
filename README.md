@@ -64,19 +64,19 @@ Here are some ideas to get you started:
 
 ## 🦚 Boast
 <div align="center">
-  <a href="http://gwonyj91.dothome.co.kr">
+  <a href="http://gwonyj91.dothome.co.kr" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/portfolio-1EBC8F?style=for-the-badge&logo=portfolio&logoColor=white" alt="포트폴리오">&nbsp;
   </a>
-  <a href="https://www.youtube.com/@gwonyj91">
+  <a href="https://www.youtube.com/@gwonyj91" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/youtube-FF3333?style=for-the-badge&logo=youtube&logoColor=white" alt="유튜브">&nbsp;
   </a>
-  <a href="https://blog.naver.com/yoyo99828">
+  <a href="https://blog.naver.com/yoyo99828" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/blog-6DB33F?style=for-the-badge&logo=naver&logoColor=white" alt="네이버 블로그">&nbsp;
   </a>
-  <a href="https://gwonyj91.tistory.com/">
+  <a href="https://gwonyj91.tistory.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="티스토리">&nbsp;
   </a>
-  <a href="https://velog.io/@gwonyj91">
+  <a href="https://velog.io/@gwonyj91" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/velog-7033FD?style=for-the-badge&logo=velog&logoColor=white" alt="벨로그">&nbsp;
   </a>
 </div>

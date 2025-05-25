@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=25&duration=4919&pause=1000&width=435&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EB%82%98%EB%A7%8C%EC%9D%98+%EA%B8%B8%EC%9D%84+%EA%B1%B8%EC%96%B4%EA%B0%80%EB%A9%B4%EC%84%9C)](https://git.io/typing-svg)
+
 <div align="center">
 
 ![Gwon-YJ GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwon-YJ&show_icons=true&theme=radical)

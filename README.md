@@ -40,6 +40,12 @@ Here are some ideas to get you started:
 
 <br>
 
+  <h3 align="center"> Tool </h3>
+  <div align="center">
+     <img src="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white">&nbsp
+  </div>
+<br>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://gwonyj91.tistory.com/">
@@ -50,7 +56,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/yoyo99828@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
   </div>
-  
+
 <br>
 
 <div align="center">

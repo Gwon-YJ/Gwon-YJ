@@ -85,11 +85,16 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/yoyo99828@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
   </div>
-  
+
+<div align="center">
  <br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  </div>
 
+ <div align="center">
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+  </div>

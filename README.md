@@ -64,9 +64,8 @@ Here are some ideas to get you started:
 
 ## 🦚 Boast
 <div align="center">
-    <a href="http://gwonyj91.dothome.co.kr">
+    <href="http://gwonyj91.dothome.co.kr">
     <img src="https://img.shields.io/badge/portfolio-1EBC8F?style=for-the-badge&logo=portfolio&logoColor=white"/>&nbsp
- </a>
    <a href="https://www.youtube.com/@gwonyj91">
     <img src="https://img.shields.io/badge/youtube-FF3333?style=for-the-badge&logo=youtube&logoColor=white"/>&nbsp
   <a href="https://blog.naver.com/yoyo99828">

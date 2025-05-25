@@ -74,6 +74,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
   </a>
   <a href="https://velog.io/@gwonyj91">
-    <img src="https://img.shields.io/badge/velog-4479A1?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/velog-7033FD?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
  </a>
 </div>

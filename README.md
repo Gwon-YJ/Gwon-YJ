@@ -86,6 +86,6 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=권용준anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?권용준=anuraghazra&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=권용준anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?권용준=anuraghazra&layout=compact)

@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 ## 🚀 Skill
 
-<!--내용 부분-->
-<h3 align="center">✨ Technology ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -40,7 +38,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">📚 Study 📚</h3>
+## 📚 Study
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white">&nbsp
@@ -49,7 +47,7 @@ Here are some ideas to get you started:
 
 <br>
 
-  <h3 align="center">🧰 Tool 🧰</h3>
+## 🧰 Tool
   <div align="center">
      <img src="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white">&nbsp
   </div>

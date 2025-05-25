@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Skill
+## 🚀 Skill
 
 <!--내용 부분-->
 <h3 align="center">✨ Technology ✨</h3>

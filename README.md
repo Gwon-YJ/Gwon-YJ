@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="mailto:yoyo91828@gmail.com">
     <img src="https://img.shields.io/badge/gmail-CB2029?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
   <a href="mailto:yoyo99828@naver.com">
     <img src="https://img.shields.io/badge/naver-6DB33F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>

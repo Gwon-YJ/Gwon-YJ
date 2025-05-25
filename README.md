@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="mailto:yoyo91828@gmail.com">
     <img src="https://img.shields.io/badge/gmail-CB2029?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>    
   <a href="mailto:yoyo99828@naver.com">
     <img src="https://img.shields.io/badge/naver-6DB33F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
@@ -63,13 +64,16 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="http://gwonyj91.dothome.co.kr">
     <img src="https://img.shields.io/badge/portfolio-1EBC8F?style=for-the-badge&logo=portfolio&logoColor=white"/>&nbsp
+ </a>
    <a href="https://www.youtube.com/@gwonyj91">
     <img src="https://img.shields.io/badge/youtube-FF3333?style=for-the-badge&logo=youtube&logoColor=white"/>&nbsp
   <a href="https://blog.naver.com/yoyo99828">
     <img src="https://img.shields.io/badge/blog-6DB33F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+</a>  
     <a href="https://gwonyj91.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
-  <a href="https://velog.io/@gwonyj91">
+ </a>
+   <a href="https://velog.io/@gwonyj91">
     <img src="https://img.shields.io/badge/velog-7033FD?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
  </a>
 </div>

@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 ## 📫 Contact
 <div align="center">
-  <a href="https://gwonyj91.tistory.com/">
-    <img src="https://img.shields.io/badge/tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
+    <a href="mailto:yoyo91828@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-1EBC8F?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
   <a href="mailto:yoyo99828@naver.com">
     <img src="https://img.shields.io/badge/naver-6DB33F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp

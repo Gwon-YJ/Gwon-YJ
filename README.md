@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 
 ![Gwon-YJ GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwon-YJ&show_icons=true&theme=radical)
 
-  </div>
-
-<br>
-
- <div align="center">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwon-YJ&layout=compact)
 
   </div>

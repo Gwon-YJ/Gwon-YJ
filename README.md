@@ -64,16 +64,12 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="http://gwonyj91.dothome.co.kr">
     <img src="https://img.shields.io/badge/portfolio-1EBC8F?style=for-the-badge&logo=portfolio&logoColor=white"/>&nbsp
-  </a>
    <a href="https://www.youtube.com/@gwonyj91">
     <img src="https://img.shields.io/badge/youtube-FF3333?style=for-the-badge&logo=youtube&logoColor=white"/>&nbsp
-  </a>
   <a href="https://blog.naver.com/yoyo99828">
     <img src="https://img.shields.io/badge/blog-6DB33F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
-  </a>
     <a href="https://gwonyj91.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
-  </a>
   <a href="https://velog.io/@gwonyj91">
     <img src="https://img.shields.io/badge/velog-7033FD?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
  </a>

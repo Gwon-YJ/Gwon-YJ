@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://gwonyj91.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=velog&logoColor=#000000" />&nbsp
-    #000000
+    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=#000000" />&nbsp
+
   </a>
   <a href="mailto:yoyo99828@naver.com">
     <img src="https://img.shields.io/badge/yoyo99828@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp

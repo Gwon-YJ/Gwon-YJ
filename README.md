@@ -71,9 +71,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/blog-6DB33F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
     <a href="https://gwonyj91.tistory.com/">
-    <img src="https://img.shields.io/badge/tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
   </a>
   <a href="https://velog.io/@gwonyj91">
-    <img src="https://img.shields.io/badge/velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/velog-4479A1?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
  </a>
 </div>

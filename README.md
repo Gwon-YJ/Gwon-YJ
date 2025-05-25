@@ -36,8 +36,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white">&nbsp
 </div>
 
-<br>
-
 ## 📚 Study
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white">&nbsp
@@ -46,13 +44,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white">&nbsp
 </div>
 
-<br>
-
 ## 🧰 Tool
   <div align="center">
      <img src="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white">&nbsp
   </div>
-<br>
 
 ## 📫 Contact
 <div align="center">
@@ -62,6 +57,10 @@ Here are some ideas to get you started:
   <a href="mailto:yoyo99828@naver.com">
     <img src="https://img.shields.io/badge/naver-6DB33F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
+</div>
+
+## 🦚 Boast
+<div align="center">
    <a href="https://www.youtube.com/@gwonyj91">
     <img src="https://img.shields.io/badge/youtube-CB2029?style=for-the-badge&logo=youtube&logoColor=white"/>&nbsp
   </a>
@@ -71,4 +70,7 @@ Here are some ideas to get you started:
   <a href="http://gwonyj91.dothome.co.kr">
     <img src="https://img.shields.io/badge/portfolio-1EBC8F?style=for-the-badge&logo=portfolio&logoColor=white"/>&nbsp
   </a>
-  </div>
+    <a href="https://gwonyj91.tistory.com/">
+    <img src="https://img.shields.io/badge/tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
+  </a>
+</div>

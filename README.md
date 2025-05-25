@@ -90,13 +90,13 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwon-YJ/Gwon-YJanuraghazra&show_icons=true&theme=radical)
   </div>
 
 <br>
 
  <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwon-YJ/Gwon-YJanuraghazra&layout=compact)
 
   </div>

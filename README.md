@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/naver-6DB33F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
    <a href="https://www.youtube.com/@gwonyj91">
-    <img src="https://img.shields.io/badge/youtube-E34F26?style=for-the-badge&logo=youtube&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/youtube-#CB2029?style=for-the-badge&logo=youtube&logoColor=white"/>&nbsp
   </a>
   <a href="https://blog.naver.com/yoyo99828">
     <img src="https://img.shields.io/badge/blog-6DB33F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp

@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 
   </a>
   <a href="mailto:yoyo99828@naver.com">
-    <img src="https://img.shields.io/badge/yoyo99828@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/naver-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
   </div>

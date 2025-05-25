@@ -98,6 +98,6 @@ Here are some ideas to get you started:
 
  <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwonyj&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwon-YJ&layout=compact)
 
   </div>

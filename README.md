@@ -85,6 +85,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 🍫 Portfolio
+<p align="center"> 
   <a href="http://gwonyj91.dothome.co.kr" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/portfolio-1EBC8F?style=for-the-badge&logo=portfolio&logoColor=white" alt="포트폴리오 배지" style="max-width: 100%;"></a>
-
+</p>

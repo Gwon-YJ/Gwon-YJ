@@ -75,7 +75,6 @@ Here are some ideas to get you started:
   <a href="https://blog.naver.com/yoyo99828" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/blog-6DB33F?style=for-the-badge&logo=naver&logoColor=white" alt="네이버블로그 배지" style="max-width: 100%;"></a>  
 </p>
-
 <p align="center">  
    <a href="https://www.instagram.com/gwonyj91" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="인스타그램 배지" style="max-width: 100%;"></a>

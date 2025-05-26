@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">  
-   <a href="https://gwonyj91.instagram.com" target="_blank" rel="noopener noreferrer">
+   <a href="https://www.instagram.com/gwonyj91" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="티스토리 배지" style="max-width: 100%;"></a>
   <a href="https://gwonyj91.tistory.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="티스토리 배지" style="max-width: 100%;"></a>

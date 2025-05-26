@@ -53,32 +53,26 @@ Here are some ideas to get you started:
   </div>
 
 ## 📫 Contact
-<div align="center">
-    <a href="mailto:yoyo91828@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-CB2029?style=for-the-badge&logo=gmail&logoColor=white">&nbsp
-  </a>    
-  <a href="mailto:yoyo99828@naver.com">
-    <img src="https://img.shields.io/badge/naver-6DB33F?style=for-the-badge&logo=naver&logoColor=white">&nbsp
-  </a>
-</div>
+<p align="center">
+    <a href="mailto:yoyo91828@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/gmail-CB2029?style=for-the-badge&logo=gmail&logoColor=white" alt="구글메일 배지" style="max-width: 100%;"></a>    
+  <a href="mailto:yoyo99828@naver.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/naver-6DB33F?style=for-the-badge&logo=naver&logoColor=white" alt="네이버메일 배지" style="max-width: 100%;"></a>
+</p>
 
 ## 🦚 Boast
-<div align="center">
-  <a href="http://gwonyj91.dothome.co.kr">
-    <img src="https://img.shields.io/badge/portfolio-1EBC8F?style=for-the-badge&logo=portfolio&logoColor=white">&nbsp;
-  </a>
-  <a href="https://www.youtube.com/@gwonyj91">
-    <img src="https://img.shields.io/badge/youtube-FF3333?style=for-the-badge&logo=youtube&logoColor=white">&nbsp;
-  </a> 
-  <a href="https://blog.naver.com/yoyo99828">
-    <img src="https://img.shields.io/badge/blog-6DB33F?style=for-the-badge&logo=naver&logoColor=white">&nbsp;
-  </a>  
-  <a href="https://gwonyj91.tistory.com/">
-    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">&nbsp;
-  </a>
-  <a href="https://velog.io/@gwonyj91">
-    <img src="https://img.shields.io/badge/velog-7033FD?style=for-the-badge&logo=velog&logoColor=white">&nbsp;
-  </a>
-</div>
+<p align="center">
+  <a href="http://gwonyj91.dothome.co.kr" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/portfolio-1EBC8F?style=for-the-badge&logo=portfolio&logoColor=white" alt="포트폴리오 배지" style="max-width: 100%;"></a>
+
+  <a href="https://www.youtube.com/@gwonyj91" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/youtube-FF3333?style=for-the-badge&logo=youtube&logoColor=white" alt="유튜브 배지" style="max-width: 100%;"></a> 
+  <a href="https://blog.naver.com/yoyo99828" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/blog-6DB33F?style=for-the-badge&logo=naver&logoColor=white" alt="네이버블로그 배지" style="max-width: 100%;"></a>  
+  <a href="https://gwonyj91.tistory.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="티스토리 배지" style="max-width: 100%;"></a>
+  <a href="https://velog.io/@gwonyj91" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/velog-7033FD?style=for-the-badge&logo=velog&logoColor=white" alt="벨로그 배지" style="max-width: 100%;"></a>
+</p>
 
 

@@ -88,6 +88,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="인스타그램 배지" style="max-width: 100%;"></a>
   <a href="https://www.youtube.com/@gwonyj91" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/youtube-FF3333?style=for-the-badge&logo=youtube&logoColor=white" alt="유튜브 배지" style="max-width: 100%;"></a> 
+  <a href="https://www.facebook.com/share/1HhoCg7Ffz/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="페이스북 배지" style="max-width: 100%;"></a> 
+  
 </p>
 
 ## 🍫 Portfolio

@@ -39,6 +39,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white">&nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/zoom-0B5CFF.svg?&style=for-the-badge&logo=zoom&logoColor=white">&nbsp
+</div>
+
 ## 📚 Study
 <div align="center">
   <img src="https://img.shields.io/badge/java-00AAEB.svg?&style=for-the-badge&logo=java&logoColor=white">&nbsp

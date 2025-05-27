@@ -1,7 +1,5 @@
 # Gwon Yong jun 👋
 
-![snake gif](https://github.com/Gwon-YJ/Gwon-YJ/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **Gwon-YJ/Gwon-YJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

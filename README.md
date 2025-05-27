@@ -1,4 +1,4 @@
-![snake gif](https://github.com/Gwon-YJ/Gwon-YJ/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Gwon-YJ/Gwon-YJ/output/github-contribution-grid-snake.svg)
 
 # Gwon Yong jun 👋
 

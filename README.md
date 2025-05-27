@@ -1,3 +1,6 @@
+![snake gif](https://github.com/Gwon-YJ/Gwon-YJ/blob/output/github-contribution-grid-snake.svg)
+
+
 # Gwon Yong jun 👋
 
 <!--

@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <a href="http://yoyo91828.dothome.co.kr" target="_blank">
-    <img src="https://img.shields.io/badge/🎬 Video Editor Portfolio-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/🎬 Video Editor-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="http://gwonyj91.dothome.co.kr" target="_blank">
-    <img src="https://img.shields.io/badge/💻 Backend Developer Portfolio-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/💻 Backend Developer-1E90FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>

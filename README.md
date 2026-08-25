@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Gwon-YJ/Gwon-YJ/output/github-contribution-grid-snake.svg)
 ![3D 잔디](./profile-3d-contrib/profile-night-rainbow.svg)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gwonyj91)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gwonyj91)](https://github.com/gwonyj91)
   </div>
 
 ## 🚀 Skill

@@ -18,30 +18,54 @@ jobs:
     name: generate-github-profile-3d-contrib
 
     steps:
-      - uses: actions/checkout@v5
+      # 1. 저장소 가져오기
+      - name: Checkout repository
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
+          ref: main
 
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      # 2. GitHub Profile 3D Contrib 생성
+      - name: Generate 3D Contribution
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      # 3. 생성된 SVG 확인
+      - name: Check generated files
+        run: |
+          echo "Generated files:"
+          find profile-3d-contrib -type f 2>/dev/null || true
+
+      # 4. Commit & Push
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
-          git fetch origin main
-          git reset --soft origin/main
+          # 생성된 3D 파일 확인
+          git status --short
 
-          git add -A .
+          # 변경사항 저장
+          git add -A
 
+          # 변경사항이 없으면 종료
           if git diff --cached --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "update - 3D 그래프 업데이트"
-            git push origin HEAD:main
+            exit 0
           fi
+
+          # 임시 커밋
+          git commit -m "update - 3D 그래프 업데이트"
+
+          # 원격 main 최신 상태 가져오기
+          git fetch origin main
+
+          # 원격 변경사항을 현재 커밋에 재배치
+          git rebase origin/main
+
+          # 최신 main에 push
+          git push origin HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

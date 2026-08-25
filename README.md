@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Gwon-YJ/Gwon-YJ/output/github-contribution-grid-snake.svg)
 ![3D 잔디](./profile-3d-contrib/profile-night-rainbow.svg)
-![GitHub Activity Graph](./activity.svg)
   </div>
 
 ## 🚀 Skill

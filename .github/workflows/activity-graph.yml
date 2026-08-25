@@ -2,7 +2,7 @@ name: Generate Activity Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,19 +16,24 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate activity SVG
-        uses: lowlighter/metrics@latest
+      - name: Generate activity.svg
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          filename: activity.svg
+          username: gwonyj91
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          output_path: activity.svg
+          options: theme=github&hide_border=true
 
-      - name: Commit SVG
+      - name: Commit activity.svg
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add activity.svg
-          git diff --cached --quiet || git commit -m "chore: update activity graph"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to activity.svg"
+          else
+            git commit -m "chore: update activity graph"
+            git push
+          fi

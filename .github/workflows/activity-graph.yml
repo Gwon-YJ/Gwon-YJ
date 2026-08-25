@@ -13,135 +13,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v6
 
-      - name: Generate activity.svg
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: gwonyj91
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: dist/activity-graph.svg
+          options: theme=github&hide_border=true
+
+      - name: Check generated file
+        run: |
+          echo "Generated files:"
+          find dist -type f -maxdepth 2 -print
+          test -f dist/activity-graph.svg
+
+      - name: Publish SVG
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: gwonyj91
-        run: |
-          python3 <<'PY'
-          import os
-          import urllib.request
-          import json
-          from datetime import datetime, timedelta
-
-          username = os.environ["GITHUB_USERNAME"]
-          token = os.environ["GITHUB_TOKEN"]
-
-          end = datetime.utcnow()
-          start = end - timedelta(days=365)
-
-          url = (
-              f"https://api.github.com/users/{username}/events"
-              f"?per_page=100"
-          )
-
-          request = urllib.request.Request(
-              url,
-              headers={
-                  "Authorization": f"Bearer {token}",
-                  "Accept": "application/vnd.github+json",
-                  "User-Agent": username
-              }
-          )
-
-          with urllib.request.urlopen(request) as response:
-              events = json.load(response)
-
-          activity = {}
-
-          for event in events:
-              created = event.get("created_at", "")
-              if not created:
-                  continue
-
-              date = created[:10]
-              activity[date] = activity.get(date, 0) + 1
-
-          width = 900
-          height = 180
-
-          svg = f'''<svg xmlns="http://www.w3.org/2000/svg"
-              width="{width}" height="{height}"
-              viewBox="0 0 {width} {height}">
-            <rect width="100%" height="100%" fill="#ffffff"/>
-
-            <text x="20" y="30"
-                  font-family="Arial, sans-serif"
-                  font-size="20"
-                  font-weight="bold"
-                  fill="#24292f">
-              GitHub Activity
-            </text>
-          '''
-
-          today = datetime.utcnow().date()
-          start_date = today - timedelta(days=364)
-
-          cell = 12
-          gap = 3
-          left = 20
-          top = 50
-
-          for i in range(365):
-              day = start_date + timedelta(days=i)
-
-              week = i // 7
-              weekday = day.weekday()
-
-              x = left + week * (cell + gap)
-              y = top + weekday * (cell + gap)
-
-              count = activity.get(day.isoformat(), 0)
-
-              if count == 0:
-                  fill = "#ebedf0"
-              elif count == 1:
-                  fill = "#9be9a8"
-              elif count <= 3:
-                  fill = "#40c463"
-              elif count <= 6:
-                  fill = "#30a14e"
-              else:
-                  fill = "#216e39"
-
-              svg += f'''
-              <rect
-                  x="{x}"
-                  y="{y}"
-                  width="{cell}"
-                  height="{cell}"
-                  rx="2"
-                  fill="{fill}">
-                <title>{day.isoformat()}: {count} activities</title>
-              </rect>
-              '''
-
-          svg += "</svg>"
-
-          with open("activity.svg", "w", encoding="utf-8") as file:
-              file.write(svg)
-
-          print("activity.svg generated successfully")
-          PY
-
-      - name: Verify activity.svg
-        run: |
-          ls -lah activity.svg
-          test -f activity.svg
-
-      - name: Commit activity.svg
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add activity.svg
-
-          if git diff --cached --quiet; then
-            echo "No changes to activity.svg"
-          else
-            git commit -m "chore: update activity graph"
-            git push
-          fi
